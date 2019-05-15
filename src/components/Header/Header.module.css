@@ -1,0 +1,18 @@
+.Header {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 45px;
+    background-color: #f28b23;
+}
+
+.Title {
+    margin: 0;
+}
+
+.RfrshBtn {
+    background: none;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+}
